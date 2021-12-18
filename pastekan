@@ -33,7 +33,7 @@ from sys import stdin, exit
 
 CONFIGS = [expanduser('~/.pastekanc'), '/etc/pastekanc.conf']
 DEFAULTS = {
-    'server_url': "https://pastekan.madewgn.repl.co",
+    'server_url': "https://pastekan.cf",
     'timeout': 3
 }
 
