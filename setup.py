@@ -21,7 +21,7 @@ setup(
     author='Jakub Jirutka',
     author_email='jakub@jirutka.cz',
     license='MIT',
-    scripts=['haste'],
+    scripts=['pastekan'],
     install_requires=[
         'requests',
         'docopt'
