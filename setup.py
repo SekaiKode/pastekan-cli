@@ -14,7 +14,7 @@ except ImportError:
 
 setup(
     name='pastekan',
-    version='0.3',
+    version='1.0',
     url='https://github.com/SekaiKode/pastekan-cli',
     description='CLI client for pastekan server (pastekan.cf) written in Python.',
     long_description=read_md('README.md'),
