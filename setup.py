@@ -13,9 +13,9 @@ except ImportError:
     read_md = lambda f: open(f, 'r').read()
 
 setup(
-    name='haste-client',
-    version='1.0.3',
-    url='https://github.com/jirutka/haste-client',
+    name='pastekan',
+    version='0.1',
+    url='https://github.com/SekaiKode/pastekan-cli',
     description='CLI client for Haste server (hastebin.com) written in Python.',
     long_description=read_md('README.md'),
     author='Jakub Jirutka',
