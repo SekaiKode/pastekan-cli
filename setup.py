@@ -16,10 +16,10 @@ setup(
     name='pastekan',
     version='0.2',
     url='https://github.com/SekaiKode/pastekan-cli',
-    description='CLI client for Haste server (hastebin.com) written in Python.',
+    description='CLI client for pastekan server (pastekan.cf) written in Python.',
     long_description=read_md('README.md'),
-    author='Jakub Jirutka',
-    author_email='jakub@jirutka.cz',
+    author='Made Wiguna',
+    author_email='madewgn2@gmail.com',
     license='MIT',
     scripts=['pastekan'],
     install_requires=[
