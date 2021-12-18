@@ -18,6 +18,7 @@ setup(
     url='https://github.com/SekaiKode/pastekan-cli',
     description='CLI client for pastekan server (pastekan.cf) written in Python.',
     long_description=read_md('README.md'),
+    long_description_content_type="text/markdown",
     author='Made Wiguna',
     author_email='madewgn2@gmail.com',
     license='MIT',
